@@ -1,0 +1,19 @@
+{
+  "name": "readlinesync",
+  "version": "0.1.1",
+  "description": "",
+  "main": "./build/Release/readlinesync.node",
+  "scripts": {
+    "test": "npm test",
+    "install": "node-gyp rebuild"
+  },
+  "author": {
+    "name": "Aaron Shea",
+    "url": "aaron524"
+  },
+  "license": "MIT",
+  "gypfile": true,
+  "readme": "ERROR: No README data found!",
+  "_id": "readlinesync@0.1.1",
+  "_from": "readlinesync@"
+}
